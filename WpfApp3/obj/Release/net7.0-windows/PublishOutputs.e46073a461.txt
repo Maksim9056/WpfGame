@@ -1,0 +1,6 @@
+C:\Users\Максим\source\repos\WpfApp3\WpfApp3\bin\Release\net7.0-windows\publish\WpfApp3.exe
+C:\Users\Максим\source\repos\WpfApp3\WpfApp3\bin\Release\net7.0-windows\publish\WpfApp3.dll
+C:\Users\Максим\source\repos\WpfApp3\WpfApp3\bin\Release\net7.0-windows\publish\WpfApp3.deps.json
+C:\Users\Максим\source\repos\WpfApp3\WpfApp3\bin\Release\net7.0-windows\publish\WpfApp3.runtimeconfig.json
+C:\Users\Максим\source\repos\WpfApp3\WpfApp3\bin\Release\net7.0-windows\publish\WpfApp3.pdb
+C:\Users\Максим\source\repos\WpfApp3\WpfApp3\bin\Release\net7.0-windows\publish\HelixToolkit.Wpf.dll
